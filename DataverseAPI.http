@@ -1,0 +1,6 @@
+@DataverseAPI_HostAddress = http://localhost:5244
+
+GET {{DataverseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
